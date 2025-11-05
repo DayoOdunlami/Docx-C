@@ -1,3 +1,5 @@
+"use client"
+
 export function Footer() {
   return (
     <footer className="border-t bg-catapultCharcoal text-white">
